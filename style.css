@@ -1,0 +1,19 @@
+
+    a:link, a:visited
+    {background-color: darkorange;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 9px 13px;
+    border: 1px solid white ;
+    border-radius: 30px;
+    text-decoration: dashed;
+    display: inline-block;}
+
+    a:active, a:hover{
+        color: darkorange;
+        background-color: white;
+    }
+    
+    
+
