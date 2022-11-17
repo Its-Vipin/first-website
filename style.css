@@ -8,12 +8,29 @@
     border: 1px solid white ;
     border-radius: 30px;
     text-decoration: dashed;
-    display: inline-block;}
+    /* display: inline-block; */
+}
 
     a:active, a:hover{
         color: darkorange;
         background-color: white;
     }
+    *{
+        background-color: aliceblue;
+        font-family: 'Montserrat';
+    }
+    .contactus{
+        font-size: 50px;
+        text-align: center;
+    }
+    .submit{
+        text-align: center;
+    padding-left: 700px;   }
+    .input{
+        padding-left: 600px;
+    }
+
+    
     
     
 
